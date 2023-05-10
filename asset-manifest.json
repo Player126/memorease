@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/memorease/static/css/main.e9db3491.css",
-    "main.js": "/memorease/static/js/main.380efd17.js",
+    "main.js": "/memorease/static/js/main.64ac643d.js",
     "static/js/787.1e143dbf.chunk.js": "/memorease/static/js/787.1e143dbf.chunk.js",
     "index.html": "/memorease/index.html",
     "main.e9db3491.css.map": "/memorease/static/css/main.e9db3491.css.map",
-    "main.380efd17.js.map": "/memorease/static/js/main.380efd17.js.map",
+    "main.64ac643d.js.map": "/memorease/static/js/main.64ac643d.js.map",
     "787.1e143dbf.chunk.js.map": "/memorease/static/js/787.1e143dbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9db3491.css",
-    "static/js/main.380efd17.js"
+    "static/js/main.64ac643d.js"
   ]
 }
